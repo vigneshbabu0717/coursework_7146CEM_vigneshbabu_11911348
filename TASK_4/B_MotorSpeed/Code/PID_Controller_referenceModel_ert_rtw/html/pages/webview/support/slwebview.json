@@ -1,0 +1,28 @@
+{
+ "baseUrl":"support/slwebview_files",
+ "homeHid":1,
+ "initialElement":"",
+ "sections":[
+  {
+   "hid":1,
+   "sid":"PID_Controller_referenceModel",
+   "name":"PID_Controller_referenceModel",
+   "fullname":"PID_Controller_referenceModel",
+   "label":"PID_Controller_referenceModel",
+   "parent":0,
+   "descendants":[
+    2,
+    3,
+    4
+   ],
+   "hierarchyUrl":"support/slwebview_files/PID_Controller_referenceModel_h_1.json",
+   "backingUrl":"support/slwebview_files/PID_Controller_referenceModel_m.json"
+  }
+ ],
+ "optViews":[
+ ],
+ "display":{
+  "informer":false
+ },
+ "iconsUrl":"support/slwebview_files/PID_Controller_referenceModel_icons.css"
+}
