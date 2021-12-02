@@ -46,22 +46,24 @@ TASK_3
 TASK_4
    |-- A_CruiseControl
    |   |-- Code
-   |   |   |-- Code_Generation_Advisor_Report.html          #Code generation report
+   |   |   |-- Code_Generation_Advisor_Report.html          #Code generation advisor report
    |   |   |-- PID_Controller_referenceModel_ert_rtw        #Contains generated .c and .h files
    |   |   |   |-- PID_Controller_referenceModel.c
    |   |   |   |-- PID_Controller_referenceModel.h
    |   |   |   |-- PID_Controller_referenceModel_private.h
    |   |   |   |-- PID_Controller_referenceModel_types.h
    |   |   |   |-- ert_main.c
+   |   |   |   |-- rtwtypes.h
    |-- B_MotorSpeed
    |   |-- Code
-   |   |   |-- Code_Generation_Advisor_Report.html          #Code generation report
+   |   |   |-- Code_Generation_Advisor_Report.html          #Code generation advisor report
    |   |   |-- PID_Controller_referenceModel_ert_rtw        #Contains generated .c and .h files
    |   |   |   |-- PID_Controller_referenceModel.c
    |   |   |   |-- PID_Controller_referenceModel.h
    |   |   |   |-- PID_Controller_referenceModel_private.h
    |   |   |   |-- PID_Controller_referenceModel_types.h
    |   |   |   |-- ert_main.c
+   |   |   |   |-- rtwtypes.h
 TASK_5
    |-- 7146CEM_CourseWork_Report_VigneshBabuAravamuthan.docx  #Final Report
 
