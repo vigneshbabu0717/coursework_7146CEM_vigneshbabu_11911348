@@ -8,6 +8,9 @@ Coursework contains Tuned PID controllers for Cruise control system, Motor speed
 ```bash
 
 TASK_1
+   |-- Testing                                      
+   |   |-- PID_Test.mldatx                          #Test File
+   |   |-- Test_Result.mldatx                       #Test Result File
    |-- PID.slx                                      #Original PID Model
    |-- PID_Controller_referenceModel.slx            #Referenced Model
    |-- Parameters.mat                               #Dummy parameters to initialise
@@ -65,6 +68,6 @@ TASK_4
    |   |   |   |-- ert_main.c
    |   |   |   |-- rtwtypes.h
 TASK_5
-   |-- 7146CEM_CourseWork_Report_VigneshBabuAravamuthan.docx  #Final Report
+   |-- 7146CEM_CourseWork_Report_VigneshBabuAravamuthan.pdf  #Final Report
 
 ```
